@@ -57,18 +57,12 @@ God Bot is an advanced, interactive question-answering system that leverages the
 
 ## Installation
 
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/god-bot.git
-   cd god-bot
-   ```
-
-2. Install the required packages:
+1. Install the required packages:
    ```
    pip install nltk scikit-learn wikipedia-api SpeechRecognition pyaudio
    ```
 
-3. Download necessary NLTK data:
+2. Download necessary NLTK data:
    ```python
    import nltk
    nltk.download('punkt')
