@@ -1,6 +1,6 @@
-# God Bot: AI-Powered Wikipedia Question Answering System
+# Wikipedia Chatbot: AI-Powered Wikipedia Question Answering System
 
-God Bot is an advanced, interactive question-answering system that leverages the vast knowledge base of Wikipedia to provide informative responses to user queries. By combining speech recognition, natural language processing, and information retrieval techniques, God Bot offers a unique and engaging way to explore and learn from Wikipedia content.
+Wikipedia chatbot is an advanced, interactive question-answering system that leverages the vast knowledge base of Wikipedia to provide informative responses to user queries. By combining speech recognition, natural language processing, and information retrieval techniques, God Bot offers a unique and engaging way to explore and learn from Wikipedia content.
 
 ## Table of Contents
 1. [Features](#features)
